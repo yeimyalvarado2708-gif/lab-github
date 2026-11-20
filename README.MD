@@ -16,3 +16,15 @@ python main.py
 - Registro de un producto.
 - Cálculo de ingresos.
 - Validación de precios y cantidades.
+
+## Equipo de desarrollo
+
+- Yeimy Alvarado: desarrollador principal.
+- Jorge Bermúdez: colaborador.
+
+## Tecnologías
+
+- Python
+- Git
+- GitHub
+- Visual Studio Code
